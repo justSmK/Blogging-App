@@ -13,8 +13,8 @@ final class IAPManager {
     
     private init() {}
     
-    func isPremiuim() {
-        
+    func isPremiuim() -> Bool {
+        return false
     }
     
     func subscribe() {
