@@ -27,6 +27,7 @@
 		BB7EC56227AD6D2700936BAB /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7EC56127AD6D2700936BAB /* StorageManager.swift */; };
 		BB9E7A4627AD8F8F0081BF8B /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9E7A4527AD8F8F0081BF8B /* User.swift */; };
 		BB9E7A4827AD8F9E0081BF8B /* BlogPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9E7A4727AD8F9E0081BF8B /* BlogPost.swift */; };
+		BBB00E2327BEA7F600E3F70D /* SignInHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBB00E2227BEA7F600E3F70D /* SignInHeaderView.swift */; };
 		BBEADCBF27BD4E7C00C830B4 /* PayWallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEADCBE27BD4E7C00C830B4 /* PayWallViewController.swift */; };
 		BBEADCC227BD526300C830B4 /* PayWallHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEADCC127BD526300C830B4 /* PayWallHeaderView.swift */; };
 		BBEADCC427BD6F4800C830B4 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEADCC327BD6F4800C830B4 /* Extensions.swift */; };
@@ -57,6 +58,7 @@
 		BB7EC56127AD6D2700936BAB /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		BB9E7A4527AD8F8F0081BF8B /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		BB9E7A4727AD8F9E0081BF8B /* BlogPost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogPost.swift; sourceTree = "<group>"; };
+		BBB00E2227BEA7F600E3F70D /* SignInHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInHeaderView.swift; sourceTree = "<group>"; };
 		BBEADCBE27BD4E7C00C830B4 /* PayWallViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PayWallViewController.swift; sourceTree = "<group>"; };
 		BBEADCC027BD4FDA00C830B4 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 		BBEADCC127BD526300C830B4 /* PayWallHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PayWallHeaderView.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				BB5964C027AD67360010A424 /* LaunchScreen.storyboard */,
 				BBEADCC127BD526300C830B4 /* PayWallHeaderView.swift */,
 				BB6BBBC127BD76C400C6A6B4 /* PayWallDescriptionView.swift */,
+				BBB00E2227BEA7F600E3F70D /* SignInHeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -337,6 +340,7 @@
 				BBEADCC227BD526300C830B4 /* PayWallHeaderView.swift in Sources */,
 				BB5964BA27AD67360010A424 /* HomeViewController.swift in Sources */,
 				BB5964B627AD67360010A424 /* AppDelegate.swift in Sources */,
+				BBB00E2327BEA7F600E3F70D /* SignInHeaderView.swift in Sources */,
 				BBEADCC427BD6F4800C830B4 /* Extensions.swift in Sources */,
 				BB9E7A4627AD8F8F0081BF8B /* User.swift in Sources */,
 				BB7EC54D27AD6BDF00936BAB /* ProfileViewController.swift in Sources */,
