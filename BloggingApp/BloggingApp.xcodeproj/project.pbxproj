@@ -27,6 +27,7 @@
 		BB7EC56227AD6D2700936BAB /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7EC56127AD6D2700936BAB /* StorageManager.swift */; };
 		BB8C695327CCFC020003736C /* PostPreviewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8C695227CCFC020003736C /* PostPreviewTableViewCell.swift */; };
 		BB8C695527CCFC150003736C /* PostHeaderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8C695427CCFC150003736C /* PostHeaderTableViewCell.swift */; };
+		BB8C695927CD173D0003736C /* HapticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8C695827CD173D0003736C /* HapticsManager.swift */; };
 		BB9E7A4627AD8F8F0081BF8B /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9E7A4527AD8F8F0081BF8B /* User.swift */; };
 		BB9E7A4827AD8F9E0081BF8B /* BlogPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB9E7A4727AD8F9E0081BF8B /* BlogPost.swift */; };
 		BBB00E2327BEA7F600E3F70D /* SignInHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBB00E2227BEA7F600E3F70D /* SignInHeaderView.swift */; };
@@ -60,6 +61,7 @@
 		BB7EC56127AD6D2700936BAB /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		BB8C695227CCFC020003736C /* PostPreviewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostPreviewTableViewCell.swift; sourceTree = "<group>"; };
 		BB8C695427CCFC150003736C /* PostHeaderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostHeaderTableViewCell.swift; sourceTree = "<group>"; };
+		BB8C695827CD173D0003736C /* HapticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsManager.swift; sourceTree = "<group>"; };
 		BB9E7A4527AD8F8F0081BF8B /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		BB9E7A4727AD8F9E0081BF8B /* BlogPost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogPost.swift; sourceTree = "<group>"; };
 		BBB00E2227BEA7F600E3F70D /* SignInHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInHeaderView.swift; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 				BB7EC55D27AD6D0200936BAB /* DatabaseManager.swift */,
 				BB7EC55F27AD6D1500936BAB /* AuthManager.swift */,
 				BB7EC56127AD6D2700936BAB /* StorageManager.swift */,
+				BB8C695827CD173D0003736C /* HapticsManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -365,6 +368,7 @@
 				BB7EC55027AD6C4700936BAB /* TabBarViewController.swift in Sources */,
 				BB5964B827AD67360010A424 /* SceneDelegate.swift in Sources */,
 				BB7EC55827AD6CAC00936BAB /* ViewPostViewController.swift in Sources */,
+				BB8C695927CD173D0003736C /* HapticsManager.swift in Sources */,
 				BB7EC56227AD6D2700936BAB /* StorageManager.swift in Sources */,
 				BBEADCBF27BD4E7C00C830B4 /* PayWallViewController.swift in Sources */,
 			);
